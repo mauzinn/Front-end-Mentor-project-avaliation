@@ -86,7 +86,7 @@ function resultado(){
     box3.style.display = "none"
     box4.style.display = "none"
     var star = document.getElementById('star')
-    star.src = 'images/illustration-thank-you.svg'
+    star.src = 'illustration-thank-you.svg'
     var box2 = document.getElementById('box2')
     box2.style.textAlign = "Center"
 }
